@@ -1,9 +1,7 @@
 <p align="center">
-  <h1 align="center">CareerConnect</h1>
-  <p align="center">
-    <i>Connecting Careers, Empowering Success</i>
-    <br/>
-  </p>
+  <h1 align="center">
+    <img src="https://github.com/nishantarora23/sample/assets/42149632/952dc1e4-e383-4b64-b701-51952cf52b6d" alt="CareerConnect Logo" width="350px">
+  </h1>
 </p>
 
 ## Project Description

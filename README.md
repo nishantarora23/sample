@@ -74,7 +74,7 @@ We will follow an Agile development approach to allow for flexibility and adapta
 
 
 ### Technology
-This project will leverage a combination of modern technologies to ensure efficient development, seamless integration, and effective project management. The following technologies have been chosen based on their compatibility, industry standards, and proven track record:
+CareerConnect will leverage a combination of modern technologies to ensure efficient development, seamless integration, and effective project management. The following technologies have been chosen based on their compatibility, industry standards, and proven track record:
 
 ![Technology stack and Architectural Diagram](https://github.com/nishantarora23/sample/assets/42149632/977ed92d-e21b-4b71-88c9-c0e495ca9006)
  <p align="center">

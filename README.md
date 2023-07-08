@@ -76,11 +76,28 @@ We will follow an Agile development approach to allow for flexibility and adapta
 
 
 ### Technology
+This project will leverage a combination of modern technologies to ensure efficient development, seamless integration, and effective project management. The following technologies have been chosen based on their compatibility, industry standards, and proven track record:
+
 ![Technology stack and Architectural Diagram](https://github.com/nishantarora23/sample/assets/42149632/977ed92d-e21b-4b71-88c9-c0e495ca9006)
  <p align="center">
     <i> Fig. 1 Technology Stack and Architecture Diagram</i>
     <br/>
   </p>
+
+- **Front-End Development: React**
+<br>The user interface of the application will be developed using the React JavaScript library. React provides a component-based architecture that enables modular and reusable code, resulting in a more efficient development process. Its virtual DOM rendering and state management capabilities enhance the performance and responsiveness of the application, ensuring a smooth user experience.
+
+- **Back-End Development: Java Servlets**
+<br>The back-end of the application will be implemented using Java Servlets. Servlets provide a robust and scalable framework for handling HTTP requests and building RESTful APIs. With its extensive Java ecosystem and support for enterprise-grade development, Servlets allow for seamless integration with various libraries, frameworks, and databases.
+
+- **Database Management System: MySQL**
+<br>For data storage and management, the project will utilize the MySQL relational database management system. MySQL is widely recognized for its performance, scalability, and reliability. Its support for SQL queries and ACID-compliant transactions ensures efficient data manipulation and retrieval, making it suitable for handling the project's data storage requirements.
+
+- **Continuous Integration and Deployment: Jenkins with Gradle**
+<br>To facilitate continuous integration and deployment, we will employ Jenkins, an open-source automation server. Jenkins, integrated with Gradle, will automate the building, testing, and deployment processes. This will ensure the project's codebase remains stable and reliable, enabling rapid iterations and reducing the risk of deployment errors.
+
+- **Source Control and Project Management: GitHub**
+<br>GitHub will serve as the primary source control management (SCM) tool for the project, providing version control and collaboration features. It will also act as a ticketing tool, allowing for issue tracking, task assignment, and progress monitoring. The project's repository on GitHub will provide transparency and facilitate effective project management, ensuring seamless collaboration among team members.
 
 <br>
 <table>
